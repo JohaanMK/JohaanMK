@@ -44,14 +44,6 @@
   <div align=center>
     <a href="https://github.com/bhlx1992/github-readme-stats">
       <img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhlx1992&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=a77eeb&text_color=7fdbca&icon_color=1dafb&bg_color=011627&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="lartweib"/>
-    </a><br>
-    <a href="##" title="Go to Source">
-      <img align="center" width=500 src="https://github-readme-streak-stats.herokuapp.com/?user=bhlx1992&theme=nightowl&border=1dafb&hide_border=true" alt="lartweib" />
-    </a><br>
-    <a href="https://github.com/bhlx1992/github-readme-stats" title="Go to Source">
-      <img align="center" width=500 src="https://github-readme-stats.vercel.app/api?username=bhlx1992&theme=nightowl&border=61dafb&hide_border=true" alt="lartweib"/>
-    </a> 
-  </div>
 <hr>
     <div id="" align="center">
     </div>
