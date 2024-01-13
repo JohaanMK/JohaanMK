@@ -16,12 +16,6 @@
       <a href="https://discordapp.com/users/1195442293876990014" title="Discord Profile"><img width="50" src="https://cdn2.iconfinder.com/data/icons/gaming-platforms-squircle/250/discord_squircle-512.png"></a>
     </div>   
 </div>
-      <div align="center">
-          <a href="#none">
-            <img alt="Snake" title="Snake commits"src="https://github.com/QravaTTacker/QravaTTacker/blob/output/github-contribution-grid-snake-dark.svg"/>
-          </a>
-      </div>      
-</div>
 <h2 align="center">· 𝖫𝖺𝗇𝗀𝗎𝖺𝗀𝖾𝗌 | 𝖥𝗋𝖺𝗆𝖾𝗐𝗈𝗋𝗄𝗌 | 𝖳𝗈𝗈𝗅𝗌 ·</h2>
 <br>
 
@@ -35,22 +29,7 @@
     <hr>
 <p align=center>
  
-  <div align="center">
-    <img src="https://cdn0.iconfinder.com/data/icons/photography/512/e36-64.png" width="30" height="30"/>
-  <img src="https://profile-counter.glitch.me/bhlx1992/count.svg?"  />
-</div>
-
-<br>
-  <div align=center>
-    <a href="https://github.com/bhlx1992/github-readme-stats">
-      <img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhlx1992&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=a77eeb&text_color=7fdbca&icon_color=1dafb&bg_color=011627&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="lartweib"/>
-<hr>
-    <div id="" align="center">
-    </div>
-     <a href="" title=" ">
-          <img alt="Capsule Render" width="100%"src="https://capsule-render.vercel.app/api?type=waving&fontColor=0dd0f9&color=40:0dd0f9,70:d558f6&height=120&section=footer&animation=fadeIn"/>
-      </a>
-
+  <
 
 
 
